@@ -1,0 +1,14 @@
+# ninja log v5
+40	1042	0	CMakeFiles/vergil.dir/utils.cpp.o	2d818f619ac6f117
+63	1056	0	CMakeFiles/vergil.dir/sm4.cpp.o	dc53aebcb6e09963
+1	1084	0	CMakeFiles/vergil.dir/str_utils.cpp.o	59ce0a2db6422546
+24	1085	0	CMakeFiles/vergil.dir/native-lib.cpp.o	2ec5cd1739118552
+32	1112	0	CMakeFiles/vergil.dir/mem.cpp.o	1d480f2f642daaa1
+121	1150	0	CMakeFiles/vergil.dir/sec.cpp.o	94cd42472b5a7f1
+49	1190	0	CMakeFiles/vergil.dir/confhandle.cpp.o	43541931ac4a8f48
+105	1192	0	CMakeFiles/vergil.dir/anti_hook.cpp.o	d33fc1d9e3fc04d4
+75	1222	0	CMakeFiles/vergil.dir/got.cpp.o	259f6b3ce5978fd8
+88	1243	0	CMakeFiles/vergil.dir/mdbase.cpp.o	84ed115b70971b81
+160	1284	0	CMakeFiles/vergil.dir/func.cpp.o	2a66e79d7e3b96f4
+144	1356	0	CMakeFiles/vergil.dir/sys.cpp.o	939eabdcfe923d85
+1356	1547	0	C:/Users/wannacry/Desktop/REP/vergil/here/app/build/intermediates/cmake/debug/obj/armeabi/libvergil.so	b70f7f62dbe91736

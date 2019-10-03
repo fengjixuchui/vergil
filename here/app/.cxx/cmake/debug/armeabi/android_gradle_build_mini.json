@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\code\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\.cxx\\cmake\\debug\\armeabi --target clean"
+  ],
+  "libraries": {
+    "ape-Debug-armeabi": {
+      "artifactName": "ape",
+      "abi": "armeabi",
+      "output": "C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\src\\main\\cpp\\..\\..\\..\\libs\\armeabi\\libape.so"
+    },
+    "sm4-Debug-armeabi": {
+      "artifactName": "sm4",
+      "abi": "armeabi",
+      "output": "C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\src\\main\\cpp\\..\\..\\..\\libs\\armeabi\\libsm4.so"
+    },
+    "vergil-Debug-armeabi": {
+      "artifactName": "vergil",
+      "buildCommand": "D:\\code\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\.cxx\\cmake\\debug\\armeabi --target vergil",
+      "abi": "armeabi",
+      "output": "C:\\Users\\wannacry\\Desktop\\REP\\vergil\\here\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi\\libvergil.so"
+    }
+  }
+}
