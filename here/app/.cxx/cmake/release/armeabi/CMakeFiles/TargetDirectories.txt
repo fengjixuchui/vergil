@@ -1,3 +1,0 @@
-C:/Users/wannacry/Desktop/REP/vergil/here/app/.cxx/cmake/release/armeabi/CMakeFiles/vergil.dir
-C:/Users/wannacry/Desktop/REP/vergil/here/app/.cxx/cmake/release/armeabi/CMakeFiles/edit_cache.dir
-C:/Users/wannacry/Desktop/REP/vergil/here/app/.cxx/cmake/release/armeabi/CMakeFiles/rebuild_cache.dir
