@@ -9,17 +9,3 @@ extern "C" bool anti_hook(
         bool is_close,       // 调用完是否关闭初始化的资源
         uint32_t* arr_func,  // 要检测的函数地址(数组)
         uint32_t count);     // 数组元素个数
-
-
-
-
-/*
-输入：
-1 所有SO库
-2
-
-
-
-
-
- * */
