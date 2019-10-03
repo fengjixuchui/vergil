@@ -1,4 +1,4 @@
-# android native antihook
+# android native anti hook
 #### 1 anti_hook.h .cpp为API函数原型
 #### 2 conf.h的CONF结构为API输入原型，需要通过编写额外工具构造。
 #### 3 native-lib.cpp为构造模拟数据，调用API的示例
