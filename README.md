@@ -1,1 +1,1 @@
-# android native antihook(elf arm32bit)
+# android native antihook
