@@ -1,4 +1,5 @@
 # android native anti hook
+#### (没有过多商用价值,仅用于学习参考)
 #### 0 project.zip为完整AS工程（环境为NDK14编译）
 #### 1 anti_hook.h .cpp为API函数原型
 #### 2 conf.h的CONF结构为API参数原型，需要编写额外的工具构造。
